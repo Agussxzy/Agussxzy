@@ -73,8 +73,7 @@ I am passionate about writing clean, maintainable code and continuously improvin
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn : https://linkedin.com/in/your-linkedin
-- 📧 Email : your-email@example.com
+- 📧 Email : muhammadagus8766@gmail.com
 
 ---
 
